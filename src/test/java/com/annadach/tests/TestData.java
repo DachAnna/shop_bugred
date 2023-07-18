@@ -107,6 +107,7 @@ public class TestData {
 
     //PhotoData
     public File imageFile = new File("src/test/resources/Фиолетовое платье.png");
+    public File imageFileSmall = new File("src/test/resources/шорты 2.png");
     public String photo = convertPhoto();
 
     public String convertPhoto() {

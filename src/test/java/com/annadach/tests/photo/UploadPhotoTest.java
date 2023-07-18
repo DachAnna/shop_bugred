@@ -44,7 +44,7 @@ public class UploadPhotoTest extends TestBase {
     void uploadPhoto() {
         step("Найти товар по айди и добавить фото", () -> {
             given()
-                    .multiPart("photo", testData.imageFile)
+                    .multiPart("photo", testData.imageFileSmall)
                     .multiPart("id", idRequest.newItemId)
                     .when()
                     .post("upload_photo/")
