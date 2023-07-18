@@ -5,7 +5,7 @@
 <a target="_blank" href="https://allure.autotests.cloud/project/3510/dashboards">Проект в Allure TestOps</a>
 
 В Allure TestOps хранится информация по всем автотестам проекта, по запускам сборок, а также отчет по пройденным сборкам.
-![Отчет Allure](<img src= "https://github.com/DachAnna/shop_bugred/assets/118796374/1ceb0070-3a75-4007-b150-6c9e708ef987")
+![Отчет Allure](<img src= "https://github.com/DachAnna/shop_bugred/assets/118796374/1ceb0070-3a75-4007-b150-6c9e708ef987">)
 
 
 ## :point_right:  Jenkins job c Allure Report с результатами пройденной сборки.
