@@ -52,7 +52,7 @@ allure serve build/allure-results
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | REST assured |
 |:------:|:----:|:----:|:------:|:------:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://raw.githubusercontent.com/murugka31/WikipediaAppTests/main/img/appium-logo-png-transparent.png" width="40" height="40"> |
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/murugka31/PetStoreTests/blob/main/images/Rest-assured.png" width="40" height="40"> |
 
 | GitHub | Jenkins | Allure Report | Allure TestOps | Telegram |
 |:------:|:----:|:----:|:------:|:------:|
