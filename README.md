@@ -21,13 +21,13 @@
 
 В Allure Report отображается вся информация по пройденной сборке
 
-![Allure Report](![изображение](https://github.com/DachAnna/shop_bugred/assets/118796374/b336912f-66d0-4c7e-b19b-bd066c00e81e))
+![Allure Report](https://github.com/DachAnna/shop_bugred/assets/118796374/b336912f-66d0-4c7e-b19b-bd066c00e81e)
 
 
 ## :point_right: Уведомления о прохождении тестов в Телеграмм :v:
 Уведомления о прохождении тестов приходит в телеграмм канал.
 
-![Телеграмм](![изображение](https://github.com/DachAnna/shop_bugred/assets/118796374/01dab82b-5458-4050-9cab-e66ee6a45df5))
+![Телеграмм](https://github.com/DachAnna/shop_bugred/assets/118796374/01dab82b-5458-4050-9cab-e66ee6a45df5)
 
 
 ## :point_right: Примеры использования
