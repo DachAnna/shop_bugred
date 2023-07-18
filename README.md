@@ -1,4 +1,4 @@
-# shop_bugred
+# Автоматизация Rest API интернет магазина shop_bugred
 
 
 ## :point_right: Проект в Allure TestOps с автотестами с результатами их прохождения.
