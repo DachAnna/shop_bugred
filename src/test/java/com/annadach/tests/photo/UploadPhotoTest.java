@@ -1,9 +1,12 @@
 package com.annadach.tests.photo;
 
+import com.annadach.allure.Layer;
+import com.annadach.allure.Microservice;
 import com.annadach.model.request.IdRequest;
 import com.annadach.tests.TestBase;
 import com.annadach.tests.TestData;
 import io.qameta.allure.AllureId;
+import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Tags;
@@ -14,6 +17,9 @@ import static io.qameta.allure.Allure.step;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;
 
+@Microservice("Shop Bugred")
+@Layer("API")
+@Owner("Dyachenko Anna")
 public class UploadPhotoTest extends TestBase {
 
     private IdRequest idRequest = new IdRequest();
