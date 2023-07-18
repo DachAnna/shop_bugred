@@ -5,7 +5,7 @@
 <a target="_blank" href="https://allure.autotests.cloud/project/3510/dashboards">Проект в Allure TestOps</a>
 
 В Allure TestOps хранится информация по всем автотестам проекта, по запускам сборок, а также отчет по пройденным сборкам.
-![Отчет Allure]!(https://github.com/DachAnna/shop_bugred/assets/118796374/c80bbfe0-337f-4f18-ac06-9c3a2cedbfc8)
+![Отчет Allure](https://github.com/DachAnna/shop_bugred/assets/118796374/c80bbfe0-337f-4f18-ac06-9c3a2cedbfc8)
 
 
 
