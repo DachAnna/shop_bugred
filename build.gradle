@@ -72,12 +72,12 @@ tasks.withType(Test) {
     }
 }
 
-task pet_tests(type: Test) {
+task item_tests(type: Test) {
     useJUnitPlatform {
         includeTags "itemTest"
     }
 }
-task store_tests(type: Test) {
+task photo_tests(type: Test) {
     useJUnitPlatform {
         includeTags "photoTest"
     }
